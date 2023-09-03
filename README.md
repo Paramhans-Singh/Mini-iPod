@@ -1,2 +1,2 @@
-# Mini-iPod
-Mini - iPod (React Js Project)
+# TuneBot-iPod
+TuneBot - iPod (React Js Project)
