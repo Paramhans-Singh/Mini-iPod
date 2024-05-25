@@ -10,7 +10,7 @@ TuneBot is a website dedicated to phones and iPods, offering a platform for user
 - **Responsive Design**: Optimized for seamless viewing and browsing across desktop and mobile devices.
 
 ## TuneBot Website Preview 
-
+https://github.com/Paramhans-Singh/TuneBot/assets/101575816/5e4593e2-e0fc-4fb6-b31b-644b857fcc89
 
 ## Usage
 
